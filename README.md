@@ -1,5 +1,5 @@
 # secure-data-hiding-in-image-using-steganography
-# Steganography-Cyber-Security
+
 
 
 This project demonstrates the implementation of Steganography, a technique for securely embedding information within digital media, such as images or audio, to enhance data confidentiality. The focus is on leveraging steganography as a tool for protecting sensitive information in modern cybersecurity frameworks.
